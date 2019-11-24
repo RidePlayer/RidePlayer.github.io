@@ -18,9 +18,6 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
-  social_links:
-    twitter: RidePlayer
-    rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
