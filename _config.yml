@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: 정찬정
-  tagline: 강원대학교 201821146
+  tagline: 강원대학교 201821146, rumia17335@gmail.com
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
