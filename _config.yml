@@ -20,7 +20,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: RidePlayer1
-    github:  RidePlayer
+    github:  RidePlay
     linkedIn: in/RidePlayer
     rss: rss
     # dribbble: jekyll
