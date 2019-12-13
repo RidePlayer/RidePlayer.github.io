@@ -1,3 +1,5 @@
+theme: plainwhite
+
 title: 정찬정
 author: GitHub User
 email: rumia17335@gmail.com
@@ -51,3 +53,4 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
