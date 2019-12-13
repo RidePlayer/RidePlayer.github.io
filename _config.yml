@@ -3,6 +3,7 @@ $ gem install plainwhite
 title: 정찬정
 author: GitHub User
 email: rumia17335@gmail.com
+
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -18,9 +19,9 @@ plainwhite:
   tagline: 강원대학교 201821146, rumia17335@gmail.com
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-
 social_links:
     twitter: RidePlayer1
+  # format: locale/username
   # generate social links in footer
     # dribbble: jekyll
     # facebook: jekyll
